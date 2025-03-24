@@ -1,0 +1,59 @@
+
+.jp-controls button.jp-play {
+	background:linear-gradient(to left, #f8386b, #bd04db) !important;
+}
+
+body.dark-version {
+	background: #0a0909;
+}
+.title-sec.black h2,
+.music-iframe p,
+.about-us > h2,
+.about-us p,
+.socio-links li a,
+.reel-info > h3 {
+	color: #fff;
+}
+.black-bg {
+	background: #171515;
+}
+.about-us > span {
+	color: #00b9c6;
+}
+.reel-info p {
+	color: #fcf4f4;	
+}
+
+
+
+
+.dark-verison {
+	background: #000;
+}
+.page-content p,
+.page-content h3,
+.abt-links li,
+.graphy-info > h3,
+.contact-info-head > span,
+.contact-info-head h3,
+.ct-links li > strong,
+.contact-info-column p,
+.contact-form > h3,
+.option-set li a,
+.show-card-info > h3,
+.show-location-info li span,
+.buy-ticket .theme-btn,
+.sm-title,
+.single-album-text > h2,
+.single-album-text p,
+.single-album-banner .sm-btn,
+.alb-title > h2,
+.album-dt li > h4,
+.bottom-text p,
+.bt-btns li a {
+	color: #fff;
+}
+.buy-ticket .theme-btn,
+.bt-btns li a {
+	border-color: #fff;
+}

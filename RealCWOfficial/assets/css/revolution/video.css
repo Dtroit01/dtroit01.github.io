@@ -1,0 +1,62 @@
+.header.overlayer-fixed {
+    position: absolute;
+    z-index: 3;
+    padding-top:50px;
+    width: 100%;
+}
+.header.overlayer-fixed > .row {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+ .home-content {
+    text-align: center;
+}
+.slide--top{
+    text-transform: uppercase;
+    position: relative;
+    color:#fff;
+    letter-spacing: 2px;
+        margin-bottom: 60px;
+}
+.slide--top:before{
+        content: '';
+        width: 70px;
+        height: 1px;
+        position: absolute;
+        background: #ff060a;
+        top: -30px;
+        left: 50%;
+        margin-left: -35px;
+}
+.slide--headline {
+        color: #ffffff;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 600;
+        line-height: 65px;
+        margin-bottom: 70px;
+        font-size:110px;
+       
+}
+.slide--bio {
+        color: #f9f9f9;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 300;
+        line-height: 26px;
+        margin-bottom: 0;
+        font-size: 18px;
+}
+.navbar li .dropdown-item, .navbar li .nav-link{
+        color:#fff;
+}
+    .YTPOverlay {
+    background: rgba(0,0,0,0.15);
+}
+.navbar li .dropdown-item {
+    color: #0e0e0f;
+}
+.navbar li .nav-link:before{
+    background-color: #fff;
+}
+.header.overlayer-fixed.fixed-small .navbar li .nav-link:before{
+    background-color: #000;
+}
