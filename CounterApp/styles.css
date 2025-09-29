@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; background:#f4f4f9; }
+.container { max-width: 420px; margin: 50px auto; text-align: center; background: white; padding: 24px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.08); }
+.count { font-size: 48px; margin: 24px 0; }
+.buttons button { margin: 0 6px; padding: 10px 16px; border-radius: 6px; border: 1px solid #ddd; cursor: pointer; }
